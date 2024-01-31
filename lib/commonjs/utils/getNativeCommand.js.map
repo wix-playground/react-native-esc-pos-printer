@@ -1,0 +1,1 @@
+{"version":3,"names":["_constants","require","getNativeCommand","command","nativeConstants"],"sourceRoot":"../../../src","sources":["utils/getNativeCommand.ts"],"mappings":";;;;;;AAAA,IAAAA,UAAA,GAAAC,OAAA;AAEO,SAASC,gBAAgBA,CAACC,OAAe,EAAU;EACxD,OAAOC,0BAAe,CAACD,OAAO,CAAC;AACjC"}
